@@ -15,4 +15,4 @@
 
 // Project status: The development of this project has been completed
 
-// // This project is just an example for resume
+// This project is just an example for resume
