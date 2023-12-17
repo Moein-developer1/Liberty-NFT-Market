@@ -91,7 +91,7 @@ nav label i {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    padding: 1rem 0;
+    padding: 4rem 0;
     min-height: 90vh;
     display: flex;
     justify-content: center;
@@ -132,18 +132,21 @@ nav label i {
 
 .header-bottom-link-Wraper{
     display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
 }
 
 .header-bottom-link{
     text-decoration: none;
     color: #fff;
     background-color: purple;
-    padding: 0.8rem 1.8rem;
+    max-width: 12rem;
+    width: 100%;
+    padding: 0.8rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 1rem;
-    margin-top: 2rem;
     border-radius: 30px;
     transition: background-color 0.6s;
     text-align: center;
@@ -190,12 +193,11 @@ nav label i {
 .header-bottom-right{
     width: 50%;
     height: 100%;
-    text-align: end;
 }
 
 
 .header-bottom-rightImg{
-    width: 80%;
+    width: 100%;
 }
 
 /* main */
@@ -907,6 +909,10 @@ nav label i {
         flex-direction: column;
     }
     
+    .header-bottom-link{
+        max-width: 100%;
+    }
+
     .category-box{
         width: 100%;
     }
