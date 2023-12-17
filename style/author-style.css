@@ -86,6 +86,7 @@ nav label{
 }
 
 nav label i {
+    color: #7453fc;
     font-size: 24px;
 }
 
@@ -493,7 +494,7 @@ i{
     }
 
     nav label{
-        display: inline-block;
+        display: flex;
     }
 
     input[type="checkbox"]:checked ~ .nav-list{
