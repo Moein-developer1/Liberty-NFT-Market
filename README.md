@@ -1,22 +1,11 @@
-// Liberty NFT Market
+📍 Liberty NFT Market
 
-//این پروژه یک وبسایت خرید و فروش (NFT)  است که با استفاده از تکنولوژی های (html & css) و بصورت کاملا واکنشگرا توسعه داده شده است تا تجربه کاربری مناسبی را به کاربر سایت انتقال دهد
+## ❕ This project is a buying and selling website NFTs that has been developed using html & css technologies and fully responsive to provide a good user experience to the site user.
 
-// آدرس وبسایت : https://moein-developer1.github.io/Liberty-NFT-Market
+### 🔗 Website URL : https://moein-developer1.github.io/Liberty-NFT-Market
 
-// توسعه دهندگان => نام : محمد معین قیاسوند ، ایمیل : moeinghiasvand11@gmail.com
+### ✍ Developers => 👨‍💼 Name: Mohammad Moein ghiyasvand , 📧 Email: moeinghiasvand11@gmail.com
 
-// وضعیت پروژه : توسعه این پروژه اتمام یافته است
+### 📝 Project status: The development of this project has been completed .
 
-// این پروژه فقط یک نمونه کار برای رزومه است
-
-
-// This project is a buying and selling website (NFT) that has been developed using (html & css) technologies and fully responsive to provide a good user experience to the site user.
-
-// Website URL : https://moein-developer1.github.io/Liberty-NFT-Market
-
-// Developers => Name: Mohammad Moein ghiyasvand , Email: moeinghiasvand11@gmail.com
-
-// Project status: The development of this project has been completed
-
-// This project is just an example for resume
+#### 📌 This project is just an example for resume
