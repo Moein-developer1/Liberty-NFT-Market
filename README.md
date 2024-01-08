@@ -4,7 +4,7 @@
 
 ### 🔗 Website URL : https://moein-developer1.github.io/Liberty-NFT-Market
 
-### ✍ Developers => 👨‍💼 Name: Mohammad Moein ghiyasvand , 📧 Email: moeinghiasvand11@gmail.com
+### ✍ Developers => 👨‍💼 Name: Mohammad Moein Ghiasvand , 📧 Email: moeinghiasvand11@gmail.com
 
 ### 📝 Project status: The development of this project has been completed .
 
