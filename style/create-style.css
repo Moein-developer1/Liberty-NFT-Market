@@ -151,7 +151,7 @@ nav label i {
     height: 2px;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;
+    bottom: 0;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -315,10 +315,10 @@ nav label i {
     content: '';
     display: inline-block;
     width: 70%;
-    height: 3px;
+    height: 2px;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;
+    bottom: 0;
     right: 0;
     left: 0;
     margin: 0 auto;

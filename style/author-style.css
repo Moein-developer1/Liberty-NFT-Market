@@ -153,7 +153,7 @@ nav label i {
     height: 2px;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;
+    bottom: 0;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -280,7 +280,7 @@ i{
     height: 2px;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;
+    bottom: 0;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -391,7 +391,7 @@ i{
     height: 2px;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;
+    bottom: 0;
     left: 0;
     right: 0;
     margin: 0 auto;

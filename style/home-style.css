@@ -160,7 +160,7 @@ nav label i {
     width: 70%;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;  
+    bottom: 0;  
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -396,7 +396,7 @@ nav label i {
     height: 2px;
     background-color: #fff;
     position: absolute;
-    bottom: 1px;
+    bottom: 0;
     left: 0;
     right: 0;
     margin: 0 auto;
@@ -432,7 +432,7 @@ nav label i {
     background-color: #7453fc;
     display: flex;
     align-items: center;
-    padding: 1.2rem;
+    padding: .8rem 1.2rem;
     text-align: center;
     border-radius: 5rem;
     position: relative;
@@ -827,7 +827,7 @@ nav label i {
     
     .createNFT-title{
         flex-direction: column;
-        gap: 1rem;
+        gap: 1.5rem;
     }
 }
 
